@@ -1,0 +1,28 @@
+<link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet" type="text/css">
+.special{
+  font-family: Tangerine;
+}
+img {
+  width: 13em;
+  height: 15em;
+  border-radius: 50%;
+}
+i{
+  font-family: serif;
+}
+#box-container{
+  display: flex;
+}
+#introduce{
+  background-color: pink;
+  margin: 1em;
+  border: 1em dashed grey;
+  padding: 50px;
+
+}
+#content{
+  background-color: pink;
+  margin: 1em;
+  border: 1em;
+  padding: 50px;
+}
