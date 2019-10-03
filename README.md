@@ -1,2 +1,0 @@
-# myresume
-test branch setting
