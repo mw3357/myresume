@@ -1,8 +1,8 @@
 # myresume
 This is my resume website. (HW1)
 #### 1. Website’s goal
-#####      Goal for myself
-#####      Goal for my audiences
+     Goal for myself
+     Goal for my audiences
 #### 2. First impression
 #### 3. Wording is clear and crisp
 #### 4. mobile version maintains clarity of essential elements
