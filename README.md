@@ -1,11 +1,11 @@
 # myresume
 This is my resume website. (HW1)
-#### Website’s goal
+#### 1. Website’s goal
 #####      Goal for myself
 #####      Goal for my audiences
-#### First impression
-#### Wording is clear and crisp
-#### mobile version maintains clarity of essential elements
-#### Asthetics is authentic and original
-#### Sideration of various visual design elements
-#### Layout, navigation and information hierarchy
+#### 2. First impression
+#### 3. Wording is clear and crisp
+#### 4. mobile version maintains clarity of essential elements
+#### 5. Asthetics is authentic and original
+#### 6. Sideration of various visual design elements
+#### 7. Layout, navigation and information hierarchy
